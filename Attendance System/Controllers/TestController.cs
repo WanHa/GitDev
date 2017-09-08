@@ -9,5 +9,13 @@ namespace Attendance_System.Controllers
 {
     public class TestController : ApiController
     {
+        public string testApi()
+        {
+
+            return "";
+        }
+
     }
+
+    
 }
